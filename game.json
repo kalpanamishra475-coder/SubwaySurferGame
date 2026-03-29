@@ -1,0 +1,1 @@
+{\"version\": 2,\"name\": \"Subway Surfer Game\",\"description\": \"A clone of Subway Surfer built with GDevelop.\",\"author\": \"kalpanamishra475-coder\",\"license\": \"MIT\",\"scenes\": [\"mainScene\"],\"assets\": {\"images\": [\"assets/surfers.png\",\"assets/obstacles.png\"],\"sounds\": [\"assets/background-music.mp3\",\"assets/success.wav\"]}}
